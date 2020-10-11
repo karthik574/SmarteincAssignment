@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-12T02:38:52 IST" name="Default suite" finished-at="2020-10-12T02:40:32 IST" duration-ms="100364">
+    <groups>
+    </groups>
+    <test started-at="2020-10-12T02:38:52 IST" name="Default test" finished-at="2020-10-12T02:40:32 IST" duration-ms="100364">
+      <class name="tests.SearchSamsung">
+        <test-method is-config="true" signature="LaunchApp()[pri:0, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:38:52 IST" name="LaunchApp" finished-at="2020-10-12T02:39:55 IST" duration-ms="62967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method signature="searchForProduct()[pri:0, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:39:55 IST" name="searchForProduct" finished-at="2020-10-12T02:40:06 IST" duration-ms="11003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForProduct -->
+        <test-method signature="selectMaxPrice()[pri:1, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:40:06 IST" name="selectMaxPrice" finished-at="2020-10-12T02:40:10 IST" duration-ms="3775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectMaxPrice -->
+        <test-method signature="selectRam()[pri:2, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:40:10 IST" name="selectRam" finished-at="2020-10-12T02:40:11 IST" duration-ms="1133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectRam -->
+        <test-method signature="selectProcessorBrand()[pri:3, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:40:11 IST" name="selectProcessorBrand" finished-at="2020-10-12T02:40:12 IST" duration-ms="674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProcessorBrand -->
+        <test-method signature="serchResults()[pri:4, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:40:12 IST" name="serchResults" finished-at="2020-10-12T02:40:20 IST" duration-ms="7888" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serchResults -->
+        <test-method is-config="true" signature="driverQuit()[pri:0, instance:tests.SearchSamsung@5c909414]" started-at="2020-10-12T02:40:20 IST" name="driverQuit" finished-at="2020-10-12T02:40:32 IST" duration-ms="12455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuit -->
+      </class> <!-- tests.SearchSamsung -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
